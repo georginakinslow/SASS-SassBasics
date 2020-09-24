@@ -1,0 +1,25 @@
+$color1: #964B00;
+%center {
+    text-align: center padding 20px; 
+}
+.second {
+    h1 {
+        text-align: center padding 20px;
+ }
+    h2 {
+        text-align: center padding 20px;
+    }
+    @mixin flex ($position) {
+        display: flex; 
+    justify-content:
+    $position; 
+    align-items: ($position);}
+
+    .characters {
+        h1  align-left;
+        h2 align-center; 
+        h3 align-right;
+    }
+
+    }
+}
