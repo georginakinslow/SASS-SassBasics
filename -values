@@ -1,4 +1,4 @@
-$color1: #964B00;
+$color1: #964b00;
 %center {
     text-align: center padding 20px; 
 }
